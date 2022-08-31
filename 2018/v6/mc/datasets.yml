@@ -6,14 +6,61 @@
 
 # -----------------------
 MSSMHbb_UL2018:
-# https://cms-pdmv.cern.ch/mcm/requests?prepid=HIG-RunIISummer20UL18MiniAODv2*&dataset_name=SUSYGluGluToBBHToBB_M-*_TuneCP5_13TeV-powheg-pythia8&page=-1&shown=73014448253
-#   /SUSYGluGluToBBHToBB_M-130_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
-#      xsection_pb          : -1.
-#   /SUSYGluGluToBBHToBB_M-250_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
-#      xsection_pb          : -1.
+   /SUSYGluGluToBBHToBB_M-250_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-300_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-350_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-400_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-450_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-500_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-600_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-700_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-800_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-900_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-1000_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-1200_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v1/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-1400_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-1600_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v3/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-1800_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-2000_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM:
+      xsection_pb          : -1
 
 # -----------------------
 MSSMHbb_ext1_UL2018:
+   /SUSYGluGluToBBHToBB_M-250_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-300_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v3/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-350_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-400_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-450_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v3/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-500_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-600_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-700_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-800_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v3/MINIAODSIM:
+      xsection_pb          : -1
+   /SUSYGluGluToBBHToBB_M-900_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
+      xsection_pb          : -1
    /SUSYGluGluToBBHToBB_M-1000_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
       xsection_pb          : -1
    /SUSYGluGluToBBHToBB_M-1200_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
@@ -25,27 +72,6 @@ MSSMHbb_ext1_UL2018:
    /SUSYGluGluToBBHToBB_M-1800_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
       xsection_pb          : -1
    /SUSYGluGluToBBHToBB_M-2000_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
-      xsection_pb          : -1
-   /SUSYGluGluToBBHToBB_M-250_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
-      xsection_pb          : -1
-   /SUSYGluGluToBBHToBB_M-300_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v3/MINIAODSIM:
-      xsection_pb          : -1
-   /SUSYGluGluToBBHToBB_M-350_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
-      xsection_pb          : -1
-   /SUSYGluGluToBBHToBB_M-400_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
-      xsection_pb          : -1
-#   /SUSYGluGluToBBHToBB_M-450_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
-#      xsection_pb          : -1
-# not finished yet
-   /SUSYGluGluToBBHToBB_M-500_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
-      xsection_pb          : -1
-   /SUSYGluGluToBBHToBB_M-600_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
-      xsection_pb          : -1
-   /SUSYGluGluToBBHToBB_M-700_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
-      xsection_pb          : -1
-   /SUSYGluGluToBBHToBB_M-800_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v3/MINIAODSIM:
-      xsection_pb          : -1
-   /SUSYGluGluToBBHToBB_M-900_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1_ext1-v2/MINIAODSIM:
       xsection_pb          : -1
 
 
