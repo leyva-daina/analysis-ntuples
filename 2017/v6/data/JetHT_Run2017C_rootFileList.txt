@@ -47,7 +47,6 @@ root://dcache-cms-xrootd.desy.de//store/user/daleyvap/Analysis/Ntuples/DATA/Run2
 root://dcache-cms-xrootd.desy.de//store/user/daleyvap/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/JetHT/Run2017C-UL2017_MiniAODv2-v1/220822_103653/0000/ntuple_40.root
 root://dcache-cms-xrootd.desy.de//store/user/daleyvap/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/JetHT/Run2017C-UL2017_MiniAODv2-v1/220822_103653/0000/ntuple_41.root
 root://dcache-cms-xrootd.desy.de//store/user/daleyvap/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/JetHT/Run2017C-UL2017_MiniAODv2-v1/220822_103653/0000/ntuple_42.root
-root://dcache-cms-xrootd.desy.de//store/user/daleyvap/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/JetHT/Run2017C-UL2017_MiniAODv2-v1/220822_103653/0000/ntuple_43.root
 root://dcache-cms-xrootd.desy.de//store/user/daleyvap/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/JetHT/Run2017C-UL2017_MiniAODv2-v1/220822_103653/0000/ntuple_44.root
 root://dcache-cms-xrootd.desy.de//store/user/daleyvap/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/JetHT/Run2017C-UL2017_MiniAODv2-v1/220822_103653/0000/ntuple_5.root
 root://dcache-cms-xrootd.desy.de//store/user/daleyvap/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/JetHT/Run2017C-UL2017_MiniAODv2-v1/220822_103653/0000/ntuple_6.root

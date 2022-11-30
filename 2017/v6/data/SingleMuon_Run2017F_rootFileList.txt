@@ -88,7 +88,6 @@ root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run201
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_19.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_2.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_20.root
-root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_21.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_22.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_23.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_24.root
@@ -96,13 +95,11 @@ root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run201
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_26.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_27.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_3.root
-root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_33.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_35.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_37.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_39.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_4.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_40.root
-root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_41.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_42.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_43.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_45.root
@@ -128,4 +125,3 @@ root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run201
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_64.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_7.root
 root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_8.root
-root://dcache-cms-xrootd.desy.de//store/user/rwalsh/Analysis/Ntuples/DATA/Run2017-v6/ntuplizer_106X_run2legacy/SingleMuon/Run2017F-UL2017_MiniAODv2-v1/220113_091428/0000/ntuple_9.root
